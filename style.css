@@ -1,0 +1,15 @@
+body {
+  background-color: lightgoldenrodyellow;
+}
+
+main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 6rem;
+  height: 6rem;
+
+  background-color: lightcoral;
+  border: 0.25rem solid darkseagreen;
+}
