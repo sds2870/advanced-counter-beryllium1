@@ -1,15 +1,22 @@
-body {
-  background-color: lightgoldenrodyellow;
+h1 {
+  margin: auto;
 }
 
 main {
   display: flex;
   justify-content: center;
   align-items: center;
+  margin: auto;
 
-  width: 6rem;
-  height: 6rem;
+  width: 25rem;
+  height: 25rem;
 
   background-color: lightcoral;
   border: 0.25rem solid darkseagreen;
+  box-shadow: 10px 10px gray;
+}
+
+#count {
+  font-size: 4rem;
+  color: white;
 }
